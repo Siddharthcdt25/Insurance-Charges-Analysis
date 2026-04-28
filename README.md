@@ -132,6 +132,4 @@ jupyter lab Insurance_model.ipynb
 
 >  Make sure to run **Notebook 1 first** as it generates `final_df.csv` which is used by Notebook 2.
 
-##  License
 
-This project is open source and available under the [MIT License](LICENSE).
